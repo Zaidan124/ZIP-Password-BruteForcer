@@ -7,7 +7,7 @@ cls()
 banner = '\n ###################################\n'
 banner += ' # ZIP Password BruteForcer        #\n'
 banner += ' ###################################\n'
-banner += ' # Coded By Sir.4m1R               #\n'
+banner += ' # Coded By zaidan-offcial             #\n'
 banner += ' # The404Hacking                   #\n'
 banner += ' # Digital Security ReSearch Group #\n'
 banner += ' # T.me/The404Hacking              #\n'
